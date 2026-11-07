@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Fp.Mail.TestSender/Fp.Mail.TestSender.csproj" />
+  <Project Path="Fp.Mail.Tests/Fp.Mail.Tests.csproj" />
+  <Project Path="Fp.Mail/Fp.Mail.csproj" />
+</Solution>

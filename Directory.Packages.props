@@ -1,0 +1,21 @@
+<Project>
+	<PropertyGroup>
+		<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageVersion Include="MinVer" Version="8.0.0" />
+		<PackageVersion Include="Azure.Identity" Version="1.21.0" />
+		<PackageVersion Include="Microsoft.Graph" Version="6.9.0" />
+		<PackageVersion Include="Microsoft.Extensions.Configuration" Version="10.0.14" />
+		<PackageVersion Include="Microsoft.Extensions.Logging" Version="10.0.14" />
+		<PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.14" />
+		<PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="10.0.14" />
+		<PackageVersion Include="Microsoft.Extensions.Options" Version="10.0.14" />
+		<PackageVersion Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="10.0.14" />
+		<PackageVersion Include="Microsoft.Extensions.Options.DataAnnotations" Version="10.0.14" />
+		<PackageVersion Include="coverlet.collector" Version="10.1.0" />
+		<PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.11.0" />
+		<PackageVersion Include="xunit" Version="2.9.3" />
+		<PackageVersion Include="xunit.runner.visualstudio" Version="4.0.1" />
+	</ItemGroup>
+</Project>
